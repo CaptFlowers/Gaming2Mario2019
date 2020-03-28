@@ -753,3 +753,4 @@ Script Stack (0 frames):
 [2020.03.27-23.14.16:444][725]LogHttp: Warning: 000001DBAD3CF240: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
 [2020.03.27-23.14.16:444][725]LogHttp: Warning: 000001DBAD3CF240: libcurl info message cache 4 (Closing connection 87)
 [2020.03.27-23.14.16:779][726]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55A298B2-430A-4BDA-4AB6-03A495045053%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=04605e144ceb1d6cae0858b357d15659%7Ce343ba5d775a4584ae5e17e3c784fdd9%7Cbb1b9755-2364-4638-8098-bb3c1189c034&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.28-06.25.53:216][137]LogSlate: Took 0.038645 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
